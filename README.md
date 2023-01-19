@@ -1,3 +1,3 @@
- - This landing page was implemented according to [this design from Figma](https://www.figma.com/file/z78LRsHGFrtq60gtrVBL70/Iteam-React-Test-Task?node-id=5%3A111&t=uwdy4hQTtCqfLbSE-0).
- - [DEMO LINK](https://zhenija.github.io/steam-app/)
- - The work was done using React, TypeScript and SCSS.
+ - This landing page was implemented according to [this design from Figma](https://www.figma.com/file/Ic3SlZjkATYaS7uTifZAIk/BIKE?node-id=0%3A1).
+ - [DEMO LINK](https://zhenija.github.io/MyBike-Landing/)
+ - The work was done using HTML and SCSS.
